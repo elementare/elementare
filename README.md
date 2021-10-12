@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 <div align="center">
-  <a href="https://github.com/eyes-code">
+  <a href="https://github.com/eyeS-Code">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=eyeS-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
 
@@ -37,7 +37,7 @@
 ```python
   class WhoAmI:
  	user = 'Carlos Daniel Marques'
-		current_edu = "University of Brasília - UnB"
+		current_edu = "University of Brasília - UnB | Biotecnhology"
 		skills = [
 				'Korean',
 				'English',
@@ -48,7 +48,8 @@
   		hobbies = [
 				'Gaming',
 				'Watching Anime',
-				'Martial Arts'
+				'Piano / Violin / Guitar',
+				'Study'
 				'K-Drama'
 			]
   
