@@ -2,8 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 <div align="center">
-  <a href="https://github.com/gabes-machado">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabes-machado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/eyes-code">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=eyeS-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
 
 <h2 align="center">Tools and Technologies:</h2>  
@@ -25,11 +25,10 @@
   
 <div> 
 
-<p align="center">  <a href="https://instagram.com/machad0.gabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<p align="center">  <a href="https://instagram.com/eyes.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wPc8Gvh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:machad0.gabriel@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/machad0gabriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://machad0gabriel.wixsite.com/home" target="_blank"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eyescode" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://sciphiedu.wixsite.com/home" target="_blank"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" target="_blank"></a>
 
  </div>
 
@@ -37,12 +36,13 @@
 
 ```python
   class WhoAmI:
- 	user = 'Gabriel Lima Machado'
+ 	user = 'Carlos Daniel Marques'
 		current_edu = "University of Brasília - UnB"
 		skills = [
-				'Finance',
+				'Korean',
 				'English',
-				'French'
+				'Japanese',
+				'Deutsch',
 			]
 	
   		hobbies = [
