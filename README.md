@@ -1,9 +1,9 @@
 <h1 align="center">おはようみなさん! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-<img align='right' src="http://24.media.tumblr.com/38838d2369fe10f9e3f03e92bde4883c/tumblr_mrefz4ipfr1sayl13o1_500.gif" width="200">
+<img align='right' src="http://24.media.tumblr.com/38838d2369fe10f9e3f03e92bde4883c/tumblr_mrefz4ipfr1sayl13o1_500.gif" width="200em" height="220em">
 
 <div align="center">
   <a href="https://github.com/eyeS-Code">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=eyeS-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=eyeS-Code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
 
 <h2 align="center">Tools and Technologies:</h2>  
@@ -32,14 +32,14 @@
 <h2 align="center">About me:</h2>    
 
 ```python
-  class WhoAmI:
- 	user = 'Carlos Daniel Marques'
+	class WhoAmI:
+		user = 'Carlos Daniel'
 		current_edu = "University of Brasília - UnB | Biotecnhology"
 		skills = [
 				'Korean',
 				'English',
 				'Japanese',
-				'Deutsch',
+				'Deutsch'
 			]
 	
   		hobbies = [
@@ -47,15 +47,13 @@
 				'Watching Anime',
 				'Piano / Violin / Guitar',
 				'Study'
-				'K-Drama'
 			]
   
-	def getCity():
-		return Brasilia_Brazil()
+		def getCity():
+			return "Brasilia_Brazil"
 	
-	def Ambitions():
-		LearnKorean()
-		StartABusiness()
-		FinishMyLightNovel()
-		# Assume 10 more awesome ambitions here  ;)
+		def Ambitions():
+			LearnKorean()
+			StartABusiness()
+			# Assume 10 more awesome ambitions here  ;)
 ```  
