@@ -8,8 +8,9 @@
 
 <h2 align="center">Tools and Technologies:</h2>  
 <div style="display: inline_block"><br>
-<p align="center">  <img align="center" alt="eyes-Rust" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+<p align="center">  <img align="center" alt="eyes-Rust" height="40" width="50" src="https://raw.githubusercontent.com/eyeS-Code/eyeS-Code/main/rustOrange.svg">	
   <img align="center" alt="eyes-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="eyes-Node" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="eyes-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="eyes-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="eyes-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
