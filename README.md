@@ -23,10 +23,12 @@
   
 <div> 
 
+<!--
 <p align="center">  <a href="https://instagram.com/eyes.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wPc8Gvh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/eyescode" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://sciphiedu.wixsite.com/home" target="_blank"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" target="_blank"></a>
+  <a href="https://sciphiedu.wixsite.com/home" target="_blank"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" target="_blank"></a> 
+-->
 
  </div>
 
@@ -35,7 +37,7 @@
 ```python
 	class WhoAmI:
 		user = 'Carlos Daniel'
-		current_edu = "University of Brasília - UnB | Biotecnhology"
+		current_edu = "Bachelor in Science & Technology | CNPEM"
 		skills = [
 				'Korean',
 				'English',
