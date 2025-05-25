@@ -1,27 +1,63 @@
-<h1 align="center">おはようみなさん! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-<img align='right' src="http://24.media.tumblr.com/38838d2369fe10f9e3f03e92bde4883c/tumblr_mrefz4ipfr1sayl13o1_500.gif" width="200em" height="220em">
+<img src="https://github.com/elementare/elementare/blob/4638759144b73be48c405aa187f3aec3e506902e/planets.gif" align="center" width="100%"/>
 
-<div align="center">
-  <a href="https://github.com/elementare">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=elementare&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
 
-<h2 align="center">Tools and Technologies:</h2>  
-<div style="display: inline_block"><br>
-<p align="center">  <img align="center" alt="eyes-Rust" height="40" width="50" src="https://raw.githubusercontent.com/eyeS-Code/eyeS-Code/main/rustOrange.svg">	
-  <img align="center" alt="eyes-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="eyes-Node" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="eyes-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="eyes-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="eyes-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="eyes-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="eyes-C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="eyes-Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WM-Hyprland-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Terminal-WezTerm-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Shell-NuShell-informational?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Editor-LunarVim-green?style=for-the-badge&logo=neovim"/>
+</p>
+<div id="user-content-toc" width="100%">
+  <ul style="list-style: none;">
+	<img src="https://github.com/elementare/elementare/blob/main/iconkurisu.png" align="left" width="160"/>
+    <summary>
+      <h1 align="center">おはよう皆さん!</h1>
+      <br>
+      <h2 align="center">Welcome to my Profile! 🐧</h2>
+    </summary>
+  </ul>
 </div>
 
- ##
-  
-<div> 
+## 
+
+🧠 Student of Science & Technology at CNPEM — Ilum School of Science.  
+🔬 Currently working on **Computational Immunology**.  
+🚀 I am passionate about mathematics, physics, and computation, both in their pure form and in their applications to biology.  
+👨‍💻 Living on **Arch Linux + Hyprland + WezTerm + LunarVim**.  
+💡 Interests: **Logic, Category Theory, Structural Biology, Protein Design, Drug Discovery, Algebraic Models, Quantum Mechanics, Explainable AI**.  
+🧠 Philosophy: **抽象は世界を理解する鍵だ | Abstraction is the key to understanding the world**
+
+## ⚡ Quick Facts
+
+- 🧠 Researching **Geometric Deep Learning**, **TCR-pMHC cross-reactivity**  
+- 💻 Love these programming languages: **Rust, Haskell, ARM ASM, C**  
+- 🚀 Learning **Japanese 🇯🇵** and **Chinese 🇨🇳**  
+- 🎧 Enjoys **Bossa Nova, MPB, Lo-Fi**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elementare&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eyeS-Code/eyeS-Code/main/rustOrange.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
+</p>
+
+
+
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:eyescoderbr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://br.linkedin.com/in/eyescode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 <!--
 <p align="center">  <a href="https://instagram.com/eyes.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,8 +67,6 @@
 -->
 
  </div>
-
-<h2 align="center">About me:</h2>    
 
 ```plaintext
                                                                                                                                                                 
@@ -52,5 +86,4 @@
              -@@@@@=                ┌─ Languages: Rust, Haskell, Elixir, C, ARM, Python
     @.     #@@@@@@@@@%     .@       ├─ Interests: Math, Physics, Molecular Biology, AI
        *@@@@@+     +@@@@@*          └─ Research: Clifford Neural Networks, Explainable AI, Protein Folding, Drug Discovery
-
 ```  
