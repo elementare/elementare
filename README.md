@@ -1,13 +1,19 @@
-<img src="https://github.com/elementare/elementare/blob/4638759144b73be48c405aa187f3aec3e506902e/planets.gif" align="center" width="100%"/>
+<a href="https://www.youtube.com/watch?v=XziuEdpVUe0">
+  <img src="https://github.com/elementare/elementare/blob/4638759144b73be48c405aa187f3aec3e506902e/planets.gif" width="100%"/>
+</a>
+
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WM-Hyprland-grey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Terminal-WezTerm-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Shell-NuShell-informational?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Editor-LunarVim-green?style=for-the-badge&logo=neovim"/>
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-%2338BDF8?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DE-Hyprland-%2360A5FA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WM-Sway-%23818CF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Terminal-WezTerm-%23A78BFA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Shell-NuShell-%23C084FC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Editor-LunarVim-%23E879F9?style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
+
+
 <div id="user-content-toc" width="100%">
   <ul style="list-style: none;">
 	<img src="https://github.com/elementare/elementare/blob/main/iconkurisu.png" align="left" width="160"/>
@@ -49,9 +55,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
 </p>
 
-
-
-
 ## 📫 Contact
 
 <p align="center">
@@ -59,12 +62,6 @@
   <a href="https://br.linkedin.com/in/eyescode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<!--
-<p align="center">  <a href="https://instagram.com/eyes.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wPc8Gvh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/eyescode" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://sciphiedu.wixsite.com/home" target="_blank"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" target="_blank"></a> 
--->
 
  </div>
 
@@ -86,4 +83,7 @@
              -@@@@@=                ┌─ Languages: Rust, Haskell, Elixir, C, ARM, Python
     @.     #@@@@@@@@@%     .@       ├─ Interests: Math, Physics, Molecular Biology, AI
        *@@@@@+     +@@@@@*          └─ Research: Clifford Neural Networks, Explainable AI, Protein Folding, Drug Discovery
-```  
+```
+
+
+
