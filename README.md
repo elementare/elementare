@@ -34,29 +34,23 @@
 
 <h2 align="center">About me:</h2>    
 
-```python
-	class WhoAmI:
-		user = 'Carlos Daniel'
-		current_edu = "Bachelor in Science & Technology | CNPEM"
-		skills = [
-				'Korean',
-				'English',
-				'Japanese',
-				'Deutsch'
-			]
-	
-  		hobbies = [
-				'Gaming',
-				'Watching Anime',
-				'Piano / Violin / Guitar',
-				'Study'
-			]
-  
-		def getCity():
-			return "Brasilia_Brazil"
-	
-		def Ambitions():
-			LearnKorean()
-			StartABusiness()
-			# Assume 10 more awesome ambitions here  ;)
+```plaintext
+                                                                                                                                                                
+           #@       @#              elementare@brazil
+         @@           @@            ├─ OS: Arch Linux x86_64
+        @@             @@           ├─ Host: MS-7E24
+       @@@             @@@          ├─ Kernel: Linux 6.14-6-arch1-1
+       @@@  .@@@@@@@.  @@@          ├─ Uptime: 23 years
+       @@@@ @@.   .@@ @@@@          ├─ Shell: NuShell
+    :@@@@@@@@       @@@@@@@@:       ├─ Terminal: WezTerm
+   @@@@@@@@@@@@@ @@@@@@@@@@@@@      ├─ Editor: LunarVim, VSCode
+  @@    @@  =@@   %@+  @@    @@     ├─ DE: Hyprland
+ @=     @@    -   -    @@     -@    ├─ WM: Sway
+ @      :@@    @@@    @@:      @    └─ CPU: AMD Ryzen 5 7600X (12) @ 5.654GHz
+ @       .@@@  @@@  @@@.       @    
+ .         =@@-@@@-@@=         .    
+             -@@@@@=                ┌─ Languages: Rust, Haskell, Elixir, C, ARM, Python
+    @.     #@@@@@@@@@%     .@       ├─ Interests: Math, Physics, Molecular Biology, AI
+       *@@@@@+     +@@@@@*          └─ Research: Clifford Neural Networks, Explainable AI, Protein Folding, Drug Discovery
+
 ```  
