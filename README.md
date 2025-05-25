@@ -7,9 +7,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch_Linux-%2338BDF8?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/DE-Hyprland-%2360A5FA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WM-Sway-%23818CF8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Terminal-WezTerm-%23A78BFA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Shell-NuShell-%23C084FC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Terminal-WezTerm-%23818CF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Shell-NuShell-%23A78BFA?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Editor-LunarVim-%23E879F9?style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
