@@ -2,14 +2,21 @@
   <img src="https://github.com/elementare/elementare/blob/4638759144b73be48c405aa187f3aec3e506902e/planets.gif" width="100%"/>
 </a>
 
-
-
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch_Linux-%2338BDF8?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/DE-Hyprland-%2360A5FA?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Terminal-WezTerm-%23818CF8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Shell-NuShell-%23A78BFA?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Editor-LunarVim-%23E879F9?style=for-the-badge&logo=neovim&logoColor=white"/>
+</p> -->
+
+<p align="center">
+  <img src="https://badgen.net/badge/OS/Arch%20Linux/38BDF8?labelColor=002c4a&icon=https://cdn.simpleicons.org/archlinux/white&scale=1.2"/>
+  <img src="https://badgen.net/badge/DE/Hyprland/387ef8?labelColor=00234a&scale=1.2"/>
+  <img src="https://badgen.net/badge/Terminal/WezTerm/3b38f8?labelColor=00054a&scale=1.2"/>
+  <img src="https://badgen.net/badge/Shell/NuShell/8238f8?labelColor=1e004a&scale=1.2"/>
+  <img src="https://badgen.net/badge/Editor/LunarVim/c238f8?labelColor=39004a&icon=https://cdn.simpleicons.org/neovim/white&scale=1.2"/>
 </p>
 
 
