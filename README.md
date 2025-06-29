@@ -45,7 +45,6 @@
 - 🧠 Researching **Geometric Deep Learning**, **TCR-pMHC cross-reactivity**  
 - 💻 Love these programming languages: **Rust, Haskell, ARM ASM, C**  
 - 🚀 Learning **Japanese 🇯🇵** and **Chinese 🇨🇳**  
-- 🎧 Enjoys **Bossa Nova, MPB, Lo-Fi**  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elementare&show_icons=true&theme=tokyonight"/>
